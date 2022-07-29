@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink:
+permalink: /publications/
 author_profile: true
 ---
 
@@ -13,7 +13,7 @@ author_profile: true
 
 
 <h2>Journal papers</h2>
-- <b>S. Chaudhari</b>, D. Cabric, “Power Control and Frequency Band Selection Policies for Underlay MIMO
+- S. Chaudhari, D. Cabric, “Power Control and Frequency Band Selection Policies for Underlay MIMO
 Cognitive Radio”, in IEEE Trans. on Cognitive Comm. and Networks, 2019.
 - S. Chaudhari, D. Cabric, “QoS Aware Power Allocation and Secondary User Selection in Massive
 MIMO Cognitive Radio Networks", in IEEE Trans. on Cognitive Comm. and Networks, 2017.
