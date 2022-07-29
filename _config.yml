@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shailesh Chaudhari"
-  avatar           : https://shaileshdc.github.io/images/Shailesh_photo.jpeg
+  avatar           : "Shailesh_photo.jpeg"
   bio              : "Staff Engineer at Samsung Semiconductor, Inc."
   location         : "San Diego, California, USA"
   employer         :
