@@ -18,7 +18,7 @@ My research interests include:
 - Resource allocation and interference management in wireless networks
 - Spectrum sensing, dynamic spectrum access, and cognitive radio
 - Blind signal classification/identification
-- Transmitter localization in wireless networks.
+- Transmitter localization in wireless networks
 
 I am also active as a reviewer for many international conferences and journals in the wireless domain.
 
